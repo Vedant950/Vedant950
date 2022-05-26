@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 Vedant Here 
+- 🌱 I’m currently learning Django
 <!--
 **Vedant950/Vedant950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
